@@ -6,7 +6,7 @@
 * A demostration of applying CI to ensure the code quality used GitHub Action & Apache Ant build tool.
 
 ## Sceenshots
-*Source code in Java & using JUnit
+* Source code in Java & using JUnit
 ![source code with junit](https://github.com/HaPhanBaoMinh/mathutil-ant/blob/main/screenshots/source-code-img.png)
 
 ### Connect me via: haphanbaominh9674@gmail.com
