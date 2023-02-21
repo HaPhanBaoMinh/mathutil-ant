@@ -27,7 +27,7 @@ public class MathUtility {
         // 1. For ...
         // 2. Đệ quy
         long product = 1;
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i <= n; i++) {
             product *= i;
         }
         
